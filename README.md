@@ -12,7 +12,7 @@ Este proyecto contiene un programa en Java que incluye las siguientes funcionali
 -Principal.java: contiene el programa principal y la logica
 -Usuario.java: define la clase Usuario
 
-#Ramas utilizadas 
+# Ramas utilizadas 
 
 -main: version estable del proyecto
 -Practica4_1: añade la funcionalidad de fecha y hora
